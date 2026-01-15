@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<suite name="Test App links">
+
+	<test name="Execute Class">
+
+		<classes>
+			<class name="com.Itvedant.TestNGpackages.Before_After">
+			</class>
+		</classes>
+
+
+	</test>
+
+
+</suite>
